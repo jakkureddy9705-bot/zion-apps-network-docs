@@ -63,3 +63,7 @@ These are role definitions, not assignments to particular people. No customer, l
 - [ ] Read all changed files back from the committed branch before declaring publication verified.
 - [ ] Record remaining gates and actual completion separately in the private executive workspace and new memory checkpoints.
 - [ ] Obtain separate authorization for live form submissions, outbound messages, deployments, purchases, or operational commitments.
+
+## Draft organization and communication review
+
+[Draft organization](draft-organization.md) describes phase, research-priority and topic tracking, communication checks, and private-memory handoff practices. It is documentation-only and does not resolve pending intake/routing policy decisions or authorize sending.
